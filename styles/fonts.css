@@ -1,0 +1,10 @@
+.headlineH1 {
+    color: rgb(230, 240, 235);
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.underline {
+    font-size: 18px;
+    text-decoration: underline;
+}

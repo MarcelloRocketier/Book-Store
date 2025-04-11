@@ -1,0 +1,11 @@
+{
+    "source": {
+      "include": ["scripts"],
+      "exclude": ["node_modules", "fonts", "styles", "img", "img_icons"]
+    },
+    "opts": {
+      "destination": "./docs",
+      "recurse": true
+    }
+  }
+  
